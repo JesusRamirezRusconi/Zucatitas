@@ -1,0 +1,108 @@
+# Interview Bot - Requirements
+# Core Data Science and ML
+numpy==1.26.4
+scipy==1.13.1
+pandas==2.3.0
+scikit-learn==1.6.1
+joblib==1.4.2
+
+# Deep Learning Frameworks
+torch==2.1.0+cpu
+torchaudio==2.1.0+cpu
+torchvision==0.16.0+cpu
+tensorflow==2.10.0
+keras==2.10.0
+
+# Computer Vision and Image Processing
+opencv-python==4.8.0.76
+pillow==10.4.0
+imageio==2.31.5
+
+# Audio Processing
+librosa==0.10.1
+soundfile==0.12.1
+sounddevice==0.4.6
+audioread==3.0.1
+soxr==0.3.7
+
+# Natural Language Processing
+spacy==3.7.2
+transformers==4.52.4
+tokenizers==0.21.1
+sentencepiece==0.2.0
+nltk==3.9.1
+
+# Face Recognition and Emotion Analysis
+deepface==0.0.93
+mtcnn==0.1.0
+retina-face==0.0.17
+
+# Speech Recognition
+openai-whisper==20240930
+SpeechRecognition==3.10.0
+
+# Web Framework
+streamlit==1.28.0
+
+# Web Development (Optional)
+flask==3.1.1
+fastapi==0.115.13
+uvicorn==0.32.1
+
+# Document Processing
+pdfminer.six==20221105
+
+# String Matching
+fuzzywuzzy==0.18.0
+python-levenshtein==0.21.1
+rapidfuzz==3.10.1
+
+# LangChain Ecosystem
+langchain==0.0.350
+langchain-community==0.0.20
+langchain-core==0.1.23
+
+# HTTP and Networking
+requests==2.32.4
+aiohttp==3.11.10
+
+# Data Visualization
+plotly==5.24.1
+
+# Utilities
+tqdm==4.67.1
+click==8.1.8
+rich==13.9.4
+colorama==0.4.6
+typer==0.15.1
+
+# Date and Time
+python-dateutil==2.9.0
+pytz==2025.2
+
+# Security
+cryptography==44.0.0
+certifi==2025.6.15
+
+# File Processing
+watchdog==6.0.0
+filelock==3.18.0
+
+# Configuration and Validation
+pydantic==2.11.7
+PyYAML==6.0.2
+
+# Template Engine
+jinja2==3.1.6
+markupsafe==3.0.2
+
+# Additional ML Tools
+numba==0.60.0
+safetensors==0.5.3
+huggingface-hub==0.33.0
+
+# System and Compatibility
+typing-extensions==4.14.0
+packaging==23.2
+setuptools==75.8.0
+wheel==0.45.1 
